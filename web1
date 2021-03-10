@@ -1,0 +1,24 @@
+{
+  "embed": {
+    "title": "1 HOUR WIPE ANNOUNCMENT!",
+    "description": "\n**[UK/EU] Rust Deluxe Vanilla [Solo/Duo/Trio]\n\nServer Wipes 3PM GMT**\n\n**Server IP:** ```\nconnect 185.38.149.42:28235```",
+    "url": "https://discordapp.com",
+    "color": 13762304,
+    "timestamp": "2021-03-10T14:32:13.860Z",
+    "footer": {
+      "icon_url": "https://i.imgur.com/f3KLekX.jpg",
+      "text": "Rust Deluxe"
+    },
+    "thumbnail": {
+      "url": "https://i.imgur.com/f3KLekX.jpg"
+    },
+    "image": {
+      "url": "https://i.imgur.com/VcrBlqi.jpg"
+    },
+    "author": {
+      "name": "Rust Deluxe",
+      "url": "https://discordapp.com",
+      "icon_url": "https://i.imgur.com/f3KLekX.jpg"
+      }
+  }
+}
